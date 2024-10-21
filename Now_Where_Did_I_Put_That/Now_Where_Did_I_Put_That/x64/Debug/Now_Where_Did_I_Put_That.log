@@ -1,4 +1,4 @@
 ﻿  Now_Where_Did_I_Put_That.cpp
-C:\Users\nessa\OneDrive\Documents\GitHub\now-where-did-i-put-that-Vhuerta24\Now_Where_Did_I_Put_That\Now_Where_Did_I_Put_That\Now_Where_Did_I_Put_That.cpp(20,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\nessa\OneDrive\Documents\GitHub\now-where-did-i-put-that-Vhuerta24\Now_Where_Did_I_Put_That\Now_Where_Did_I_Put_That\Now_Where_Did_I_Put_That.cpp(21,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nessa\OneDrive\Documents\GitHub\now-where-did-i-put-that-Vhuerta24\Now_Where_Did_I_Put_That\Now_Where_Did_I_Put_That\Now_Where_Did_I_Put_That.cpp(32,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nessa\OneDrive\Documents\GitHub\now-where-did-i-put-that-Vhuerta24\Now_Where_Did_I_Put_That\Now_Where_Did_I_Put_That\Now_Where_Did_I_Put_That.cpp(33,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Now_Where_Did_I_Put_That.vcxproj -> C:\Users\nessa\OneDrive\Documents\GitHub\now-where-did-i-put-that-Vhuerta24\Now_Where_Did_I_Put_That\x64\Debug\Now_Where_Did_I_Put_That.exe
